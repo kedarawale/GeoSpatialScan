@@ -1,4 +1,4 @@
-# GeoSpatialScan
+# GeoSpatialScan : An Optimized Polygon Range Search Algorithm 
 
 GeoSpatialScan is an advanced C++ implementation of an efficient spatial search algorithm that leverages KD-trees for rapid point-in-polygon queries. It utilizes the Approximate Nearest Neighbor (ANN) library to construct a KD-tree from a set of n two-dimensional points, enabling logarithmic-time spatial queries.
 
